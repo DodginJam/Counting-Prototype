@@ -1,0 +1,6 @@
+Controls:
+A/D or Left/Right Arrow Keys - Move Cargo Platform
+
+Objective:
+Catch and sort the coloured boxes into the correct sections of the Cargo platform, to correctly sort them for delivery.
+Amount of Cargo to collect depends on difficulty chosen. Difficulty also increases number of waves and decreases time until Cargo drops.
